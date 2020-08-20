@@ -18,7 +18,7 @@
   "dependencies": {
     "fabric-shim": "^1.4.0",
     "uuid": "^3.3.2",
-    "yup": "^0.26.10"
+    "yup": "^0.28.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
